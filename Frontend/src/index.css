@@ -12,7 +12,7 @@ h1, h2 {
   margin-bottom: 1em;
 }
 
-/* Style the table */
+
 table {
   width: 100%;
   margin-bottom: 20px;
@@ -32,10 +32,10 @@ th {
   background-color: #ddd;
 }
 
-/* Style the buttons */
+
 button {
   background: #333;
-  color: #ffffff;
+  color: white;
   border: none;
   padding: 10px 20px;
   margin-top: 10px;
@@ -46,7 +46,7 @@ button:hover {
   opacity: 0.8;
 }
 
-/* Style the forms */
+
 form {
   background: white;
   padding: 20px;
@@ -60,7 +60,7 @@ input[type='date'] {
   margin: 10px 0;
 }
 
-/* Add some space between form inputs and their labels */
+
 label {
   display: block;
   margin-top: 20px;
